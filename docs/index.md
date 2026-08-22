@@ -18,7 +18,6 @@
             <a href="https://pjalalifr.github.io">Pooria Jalali</a><br>
         </td>
     </tr>
-
     <tr>
         <td class="role">Grader</td>
         <td>
