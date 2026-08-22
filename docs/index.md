@@ -12,7 +12,6 @@
             <a href="https://cs-people.bu.edu/januario/">Prof. Tiago Januario</a>
         </td>
     </tr>
-
     <tr>
         <td class="role">Teaching Fellow</td>
         <td>
