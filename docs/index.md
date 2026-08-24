@@ -102,11 +102,19 @@ Sign up ASAP:
     * [https://join.iclicker.com/ZSDO](https://join.iclicker.com/ZSDO)
 
 ---
-## Attendance
+## Participation and Attendance
 
 *   Attendance in lectures and discussion is mandatory
 *   The two lecture sections of the course will be treated as one class. However, you must attend the section you are signed up for (please discuss with us if there is an issue).
 *   The content of the two lectures is identical, and assignments will be shared.
+*   Participation in lecture will be tracked with [Top Hat](https://tophat.com). We will start using this in the second week of classes.
+*   Participation in discussion labs will be tracked with [Top Hat](https://tophat.com) as well.
+*   You will get full participation points if you answer at least 85% of the possible [Top Hat](https://tophat.com) questions. You do not need to answer correctly, although we encourage you to use these questions as exam preparation.
+*   You will get full attendance points if you attend at least 85% of the discussion labs.
+*   If you end up with x% points, where x < 85, you will get x/85 of the points.
+*   Most of the material covered in lectures and labs can be found in our textbooks. Read them!
+*   While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
+*   In all cases, you are responsible for being up to date on the material.
 
 ---
 ## Textbooks
@@ -165,28 +173,39 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
             <td> <b>Topics</b>: Np-hard continued: more reductions, Feedback Arc Set <br>
                  <b>Read</b>:  <br>
-                 <b>Do:</do>
             </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 4</strong><br> Tuesday<br> Sep 15 </td>
-            <td> <b>Topics</b>: Approximation algos I. def and simple examples<br> see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof </td>
+            <td> <b>Topics</b>: Approximation algorithms: definitions and examples<br> 
+            <!-- see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof  -->
+            <b>Read</b>:  <br>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 5</strong><br> Thursday<br> Sep 17 </td>
-            <td> <b>Topics</b>: finish greedy set cover (if needed), load balancing 2-approx ad 3/2-approx.<br> LB: see slides F22/10/06 </td>
+            <td> <b>Topics</b>: Set cover, load balancing and more approximation algorithms.<br> 
+            <!-- LB: see slides F22/10/06  -->
+            <b>Read</b>:  <br>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 6</strong><br> Tuesday<br> Sep 22 </td>
-            <td> <b>Topics</b>: center selection problem<br> see slides F24/09/26 </td>
+            <td> <b>Topics</b>: Center selection problem<br> 
+            <!-- see slides F24/09/26  -->
+            <b>Read</b>:  <br>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 7</strong><br> Thursday<br> Sep 24 </td>
-            <td> <b>Topics</b>: bin packing<br> see slides F24/10/03 </td>
+            <td> <b>Topics</b>: Bin packing<br> 
+            <!-- see slides F24/10/03  -->
+            <b>Read</b>:  <br>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
@@ -206,7 +225,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 11</strong><br> Thursday<br> Oct 8 </td>
-            <td> <b>Topics</b>: sorting: worst/best/runtime, amortized analysis, expected runtime, recurrences<br> goal: get a better understanding of runtime analysis; especially that while worst case is often bad, we can expect better in practice. How we can quantify/compute this. Intro to some basic notions of probability; basic idea of randomization in algo, expected values. see slides F24/11/12 </td>
+            <td> <b>Topics</b>: Sorting: worst/best/runtime, amortized analysis, expected runtime, recurrences<br> 
+            goal: get a better understanding of runtime analysis; especially that while worst case is often bad, we can expect better in practice. How we can quantify/compute this. Intro to some basic notions of probability; basic idea of randomization in algo, expected values. see slides F24/11/12 
+            </td>
             <td> Tiago </td>
         </tr>
         <tr class="special-event">
@@ -236,8 +257,8 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 15</strong><br> Tuesday<br> Oct 27 </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Midterm? </td>
+            <td> Midterm? </td>
         </tr>
         <tr>
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
@@ -316,18 +337,6 @@ This schedule is subject, and likely, to change as we progress through the semes
 
 Students with exam accommodations, regardless or their final exam conflict, will take the final exam at same day and initial time of the other students at CDS 801.
 -->
-
----
-## Participation and Attendance
-
-*   Participation in lecture will be tracked with [Top Hat](https://tophat.com). We will start using this in the second week of classes.
-*   Participation in discussion labs will be tracked with [Top Hat](https://tophat.com) as well.
-*   You will get full participation points if you answer at least 85% of the possible [Top Hat](https://tophat.com) questions. You do not need to answer correctly, although we encourage you to use these questions as exam preparation.
-*   You will get full attendance points if you attend at least 85% of the discussion labs.
-*   If you end up with x% points, where x < 85, you will get x/85 of the points.
-*   Most of the material covered in lectures and labs can be found in our textbooks. Read them!
-*   While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
-*   In all cases, you are responsible for being up to date on the material.
 
 ---
 ## Homework Policy
