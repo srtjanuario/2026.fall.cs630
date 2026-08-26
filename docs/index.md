@@ -1,6 +1,14 @@
 # CAS CS 630 - Graduate Algorithms - Fall 2026
 
 ---
+## Course description
+
+This course examines advanced algorithmic topics and methods for CS graduate students, including matrix decomposition techniques and applications, linear programming, fundamental discrete and continuous optimization methods, probabilistic algorithms, NP-hard problems and approximation techniques, and algorithms for very large data sets.
+
+* **Course objectives**
+    * By the conclusion of this course, students will be able to identify and prove when a computational problem is NP-hard, and design effective approximation algorithms or local search heuristics with provable performance guarantees, design and analyze probabilistic (randomized) algorithms to achieve better average-case efficiency, lower space complexity, or simpler implementations than traditional deterministic alternatives.
+
+---
 
 ## Course Staff
 
@@ -78,14 +86,6 @@ Note that this course is intended for MS and advanced BA students. **PhD student
 CS530 instead**.
 
 ---
-## Syllabus
-
-This course examines advanced algorithmic topics and methods for CS graduate students, including matrix decomposition techniques and applications, linear programming, fundamental discrete and continuous optimization methods, probabilistic algorithms, NP-hard problems and approximation techniques, and algorithms for very large data sets.
-
-* **Course Objectives**
-    * By the conclusion of this course, students will be able to identify and prove when a computational problem is NP-hard, and design effective approximation algorithms or local search heuristics with provable performance guarantees, design and analyze probabilistic (randomized) algorithms to achieve better average-case efficiency, lower space complexity, or simpler implementations than traditional deterministic alternatives.
-
----
 ## Resources
 
 Sign up ASAP:
@@ -102,19 +102,8 @@ Sign up ASAP:
     * [https://join.iclicker.com/ZSDO](https://join.iclicker.com/ZSDO)
 
 ---
-## Participation and Attendance
-
-*   Attendance in lectures and discussion is mandatory
-*   The two lecture sections of the course will be treated as one class. However, you must attend the section you are signed up for (please discuss with us if there is an issue).
-*   The content of the two lectures is identical, and assignments will be shared.
-*   Participation in lecture will be tracked with [Top Hat](https://tophat.com). We will start using this in the second week of classes.
-*   Participation in discussion labs will be tracked with [Top Hat](https://tophat.com) as well.
-*   You will get full participation points if you answer at least 85% of the possible [Top Hat](https://tophat.com) questions. You do not need to answer correctly, although we encourage you to use these questions as exam preparation.
-*   You will get full attendance points if you attend at least 85% of the discussion labs.
-*   If you end up with x% points, where x < 85, you will get x/85 of the points.
-*   Most of the material covered in lectures and labs can be found in our textbooks. Read them!
-*   While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
-*   In all cases, you are responsible for being up to date on the material.
+## Course atmosphere, diversity and inclusion
+We intend to provide a positive and inclusive atmosphere in class and on the associated virtual platforms. Students from a wide range of backgrounds and with a diverse set of perspectives are welcome. We ask that students treat each other with thoughtfulness and respect, and do their part to make all their peers feel welcome. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
 
 ---
 ## Textbooks
@@ -139,6 +128,11 @@ material on NP)
 * [Algorithms, by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 * [Mathematics for Computer Science by Eric Lehman, Tom Leighton, and Albert Meyer](https://people.csail.mit.edu/meyer/mcs.pdf)(Useful background on discrete mathematics.)
 
+---
+## Structure
+  * **Lectures**: This course has two instructors - professors Erdos and Januario - who will run the course together. On any given day one of the two instructors will give the lecture. The class consists of two 75 minute lectures (Tues, Thur) and one 50 minute discussion (Wed) each week. Attendance in lectures is mandatory and will be tracked through TopHat participation (see later section for details). The TF will lead the discussion sessions. The objective is to reinforce the concepts covered in the lectures through problem-solving, and to provide clarification and guidance on the homework assignments.
+  * **Discussion Labs**: Labs will be an invaluable part of the course involving interactive problem-solving sessions, tips on homework questions, and supplemental material not covered in lecture. We will post lab notes on Piazza in advance -- please read before coming to lab. Solutions will be posted after all labs conclude.
+  * **Office hours**: We will hold multiple office hours throughout the week, the purpose of these is to answer specific questions about the material and help with assignments. Students are welcome to attend office hours with any of the instructors or TF. The exact office hour schedule is available in the calendar.
 ---
 ## Schedule
 
@@ -338,25 +332,7 @@ This schedule is subject, and likely, to change as we progress through the semes
 Students with exam accommodations, regardless or their final exam conflict, will take the final exam at same day and initial time of the other students at CDS 801.
 -->
 
----
-## Homework Policy
 
-*   **Submission:** Weekly assignments are posted on Fridays and due by **Thursday at 9:00 PM ET** via [Gradescope](https://www.gradescope.com/). A 3-hour grace period is allowed; submissions after this period will not be accepted.
-*   **Content:** Provide step-by-step explanations for your answers. Submissions with only answers will receive minimal credit.
-*   **Formatting:** Submit solutions as **one single PDF file** with high-quality images. Illegible submissions will receive a 0. We recommend using [Dropbox](https://www.dropbox.com/referrals/AABXucmmhueiq5iaPPSTVfnTpOeddYmso_0?src=global9) for scanning.
-*   **Gradescope Page Selection:** Correctly select the pages for each problem on Gradescope. Failure to do so will result in a 10% penalty. If you don't have a solution, note "No solution provided."
-*   **Late Policy:** You may use up to 3 grace periods without penalty. After that, each late submission incurs a 1% penalty.
-*   **Dropped Homework:** The lowest homework grade will be dropped after penalties are applied. (Note that the intent of this is to allow you leeway on one *emergency* situation. Do not simply use your free dropped homework because you feel like it.)
-*   **Academic Integrity and Collaboration:**
-    *   The [Collaboration & Honesty Policy](collaboration-policy.pdf) outlines the rules of collaboration and penalties for cheating. All students are required to read, sign, and submit this document to Gradescope.
-    *   Submitting identically worded answers, including pseudocode, is a **serious offense** and will be reported to the Dean's Office ([BU Academic Conduct Code](https://www.bu.edu/academics/policies/academic-conduct-code/#VI)).
-    *   Using ChatGPT or similar AI for homework solutions violates the [Collaboration & Honesty Policy](collaboration-policy.pdf). 
-    *   You are not required to cite material from the course textbook, lectures, discussion notes, or information provided by course staff.
-    *   For any other external information, **a proper citation is required**. Failure to cite constitutes plagiarism.
-    *   Explicitly searching for problem answers online or from individuals not enrolled in the current semester's class is strictly forbidden.
-    *   If you receive help on Piazza or during office hours from instructors for specific problems, you must list them as collaborators.
-*   **Partial Submissions:** Submitting partial work is acceptable if you cannot fully complete an assignment; avoid missing the deadline entirely.
-* **The instructors retain the right to oral explanation of any student work submitted for a grade**. If the student cannot explain the work they have submitted, the instructor will assign a grade of 0 on the entire assignment in question.
 
 ---
 ## [Exams](duck.png)
@@ -379,26 +355,108 @@ Students with exam accommodations, regardless or their final exam conflict, will
 
 The course grade will be calculated as follows:
 
-*   5% class participation
+*   5% class participation (based on TopHat)
 *   5% lab attendance
 *   10% quizzes
 *   20% weekly homework assignments
 *   25% in-class midterm exam
 *   35% in-class final exam. **Don't make any travel plans before knowing all dates of your final exams.**
-*   **Incompletes for this class will be granted based on** [CAS Policy](https://www.bu.edu/cas/faculty-staff/instructors-guide/incomplete-grades/).
-*   **Note:** <u>Optional homework problems do not count towards your course grade</u>, but we will look at how you did on them if you ask for a recommendation letter.
+
+
+The course grade will break down as follows:
+
+* 5% class participation (based on TopHat)
+* 30% weekly homework assignments (due Wednesdays, first hw due Wed, Sept. 18, 2024).
+* 30% in-class midterm exam (in-class, planned for Thur, Oct. 10, 2024).
+* 35% comprehensive final (during finals week). **Don't make any travel plans before knowing all dates of your final exams.**
+
+Students must pass both exams with at least 40% of the grade to pass the course. **This will be
+strictly enforced.**
+
+* **Last day to drop without a “W”**: Oct 8, 2024. With a “W”: Nov 12, 2024. **Incompletes for this class will be granted based on** [CAS Policy](https://www.bu.edu/cas/faculty-staff/instructors-guide/incomplete-grades/).
+
+* **Exams**: Both exams will consist of problem solving and short questions about the material. The
+midterm will be during class time and takes 75 minutes. The final is during the
+University-assigned final exam slot. The content of the final is cumulative.
+No collaboration whatsoever is permitted on exams, any violations will be reported to the
+College.
+
+* **Accommodations**: All are welcome in the course. If you require particular accommodations for
+exams or coursework, please contact the instructor (and forward any relevant documentation
+from Disability and Access Services) in a timely manner. If you are facing unusual circumstances
+during the semester, please reach out to us early on so that we can find a good arrangement.
+
+* **Attendance and participation**: Your participation grade depends on answering TopHat questions, which requires your presence in class. While our textbook will be very helpful, it is an
+imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the
+material. Some material covered in lecture and lab may not be in our textbooks. You are in all
+cases responsible to be up to date on the material. Class participation and questions are very
+much encouraged. Please ask as many questions in class, labs and on Piazza as you need.
+Chances are that your question and answer will be as helpful to your classmates as to you.
+
+* TopHat is a web-based platform for interactive questions during class. Our goal in using it is to
+make lectures more interactive, get you thinking actively about the material, and get some
+feedback on what you are learning. TopHat questions are generally multiple choice. Most of the
+points (80%) are for participation. The remaining 20% is for correctness. You will get the full 5%
+of the course grade if you get at least 80% of the possible TopHat points for the semester.
 
 ---
-## Regrade Policy
+## Homework Policy
 
-*   Regrade requests can be submitted up to one week (7 days) after grades for a given assignment have been posted (except the final exam).
-*   You must request a regrade via Gradescope, _**NOT** through email_.
-*   When we regrade a problem, your score may go up or down.
+<ul>
+  <li> <b>Homework problems</b>: There will be weekly homework assignments, 9 total for the semester. Problems will be posted <b?Thursdays</b> and due the following **Wednesday** evening. Homework problem sets will consist of written problems. They will allow you to practice:
+    <ol type="1">
+      <li>solving problems using the ideas from class, often in a new way,</li>
+      <li>to assess and analyze the correctness of your solution and</li>
+      <li>communicate your ideas using technical language (precise descriptions, pseudocode, formal claims, proofs).</li>
+    </ol>
+  </li>
+  Be aware that this latter is just as important as the two former and we will place high emphasis on it.
+</ul>  
+
+> **The two lowest grades** on your homework assignments will be **dropped**. Note that the intent of this is to allow you leeway on one *emergency* situation. Do not simply use your free dropped homework because you feel like it.
+
+* **Content**: The homework is designed to aid you in understanding of the material. The problems
+will usually ask you to apply an algorithm we study in some clever way or design a slight
+modification of it. Lab assignments will often be helpful to solving these problems. Solving
+problems is probably the most useful learning tool in this course—take it seriously, allow
+yourself time to do it, and have fun! Alumni often describe this course’s homework as critical to
+their success in job interviews.
+
+> Limited collaboration on homework is permitted; see below.
+
+* Assignments will be due **Wednesdays by 8:59PM**, electronically via [Gradescope](https://www.gradescope.com/). Solutions to written problems should be typeset. Hand-written solutions will not be accepted. We’ll provide you with resources on how to get started if you’re not familiar yet with typesetting mathematical-algorithmic text.
+
+*   **Partial Submissions:** Submitting partial work is acceptable if you cannot fully complete an assignment; avoid missing the deadline entirely.
+
+*  **Late Policy:** A 3-hour grace period is allowed. Students do not have to ask for special permission or give a reason to use this extra time. Submissions after this period will not be accepted.
+
+* **Regrade Policy**: If, after reviewing the solutions and your answer, you still believe a portion of your homework was graded in error, you may request a regrade, **via Gradescope**, *NOT* through email. One of the staff will consider your request and adjust your grade if appropriate. Note that when we regrade a problem, your score may go up or down. Regrade requests can be
+submitted up to one week (7 days) after grades for that assignment have been posted.
+
+* **Solution:** Provide step-by-step explanations for your answers. Submissions with only answers will receive minimal credit.
+
+* **Formatting:** Submit solutions as **one single PDF file** with high-quality images. Illegible submissions will receive a 0. We recommend using [Dropbox](https://www.dropbox.com/referrals/AABXucmmhueiq5iaPPSTVfnTpOeddYmso_0?src=global9) for scanning.
+
+* **Gradescope Page Selection:** Correctly select the pages for each problem on Gradescope. Failure to do so will result in a 10% penalty. If you don't have a solution, note "No solution provided."
+
+* **The instructors retain the right to oral explanation of any student work submitted for a grade**. If the student cannot explain the work they have submitted, the instructor will assign a grade of 0 on the entire assignment in question.
+
+---
+
+## Academic Integrity and Collaboration:
+    *   The [Collaboration & Honesty Policy](collaboration-policy.pdf) outlines the rules of collaboration and penalties for cheating. All students are required to read, sign, and submit this document to Gradescope.
+    *   Submitting identically worded answers, including pseudocode, is a **serious offense** and will be reported to the Dean's Office ([BU Academic Conduct Code](https://www.bu.edu/academics/policies/academic-conduct-code/#VI)).
+    *   Using ChatGPT or similar AI for homework solutions violates the [Collaboration & Honesty Policy](collaboration-policy.pdf). 
+    *   You are not required to cite material from the course textbook, lectures, discussion notes, or information provided by course staff.
+    *   For any other external information, **a proper citation is required**. Failure to cite constitutes plagiarism.
+    *   Explicitly searching for problem answers online or from individuals not enrolled in the current semester's class is strictly forbidden.
+    *   If you receive help on Piazza or during office hours from instructors for specific problems, you must list them as collaborators.
 
 ---
 ## AI Policy
 
 * As stated above, you may not use large language models like ChatGPT or Gemini to provide homework solutions. However, you may use them to help clarify concepts, discuss homework problems *after you have submitted and the deadline has passed*, or similar. Be wary, though, of hallucinations. It is good to double check any information you receive from LLMs with a reliable source.
+
 
 ---
 ## Miscellaneous
@@ -430,4 +488,4 @@ Many common questions have already been answered. Before emailing, posting on Pi
 
 6. **Extensions are not granted.** Instead, the course includes "grace periods" for flexibility—please use them wisely.  See #1.
 
-Reading the syllabus (or asking an LLM to summarize it for you) will save everyone time—including you.  See #1.
+Reading the syllabus (or asking an LLM to summarize it for you) will save everyone time - including yours.  See #1.
