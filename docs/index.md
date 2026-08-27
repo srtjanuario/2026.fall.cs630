@@ -77,7 +77,7 @@ Expected background includes:
   * Data structures (e.g. lists, queues, heaps, hash tables, trees, graph adjacency list)
   * Asymptotic analysis of running time (i.e. big-Oh)
   * Algorithm design paradigms, such as greedy, divide and conquer, dynamic programming, various graph algorithms
-
+  
 If you are unsure whether you have the required background, contact the instructor.
 ---
 ## Course platforms
@@ -148,6 +148,8 @@ The course grade will be calculated as follows:
 |  In-class final exam  |   20%  |
 |        Quizzes        |   46%  |
 
+---
+
 ## Exam policies
 
 Both exams will consist of problem-solving and short questions about the material.
@@ -161,6 +163,8 @@ Both exams will consist of problem-solving and short questions about the materia
   * The content of the final exam is cumulative.
   * No collaboration whatsoever is permitted on exams, **any violation will be reported to the College.**
 
+---
+
 ## Worksheet policies 
 
 In-class worksheets give students a structured way to practice concepts and test your understanding during lecture, therefore your presence in class is mandatory.
@@ -169,6 +173,8 @@ In-class worksheets give students a structured way to practice concepts and test
   * If you end up with x% points, where x < 80, you will get x/80 of the points.
   * Most of the questions covered in worksheets can be found in our textbooks and slides. Read them!
   * While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
+
+---
 
 * **Accommodations**: All are welcome in the course. If you require particular accommodations for
 exams or coursework, please contact the instructor (and forward any relevant documentation
