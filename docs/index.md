@@ -172,20 +172,35 @@ Both exams will consist of problem-solving and short questions about the materia
   * The content of the final exam is cumulative.
   * No collaboration whatsoever is permitted on exams, **any violation will be reported to the College.**
 
-
 ---
-
 
 ## Worksheet policies 
 
-In-class worksheets give students a structured way to practice concepts and test your understanding during lecture, therefore your presence in class is mandatory.
+In-class worksheets give students a structured way to practice concepts and test your understanding during lecture, therefore your presence in class is mandatory. Most of the questions covered in worksheets can be found in our textbooks and slides. Read them!
 
+  * Printed and online versions of the worksheets will be made available on the day of each lecture.
+  * Once completed, the worksheets must be submitted electronically through Gradescope no later than 2:00 PM.
+  * Peer-collaboration is strongly encouraged to solve the in-class worksheets.
   * Worksheets will be graded by completion, given that you have clearly attempted to solve it. Writing "I don't know" does not count as a valid attempt.
   * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
   * If you end up with x% points, where x < 80, you will get x/80 of the points.
-  * Most of the questions covered in worksheets can be found in our textbooks and slides. Read them!
   * While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
+  
 
+---
+
+## Quiz policies
+
+Format and Schedule
+There will be 9 weekly homework assignments. Assignments are posted on Thursdays and due the following Wednesday by 11:59 PM on Gradescope.
+
+Homework consists of written problems involving algorithm design, correctness proofs, running-time analysis, and clear technical communication.
+
+Submission Requirements
+Submit electronically through Gradescope.
+Written solutions must be typeset.
+Handwritten solutions will not be accepted.
+Resources for typesetting mathematical and algorithmic text will be provided.
 
 ---
 ## Schedule
