@@ -362,6 +362,10 @@ The course grade will be calculated as follows:
 *   25% in-class midterm exam
 *   35% in-class final exam. **Don't make any travel plans before knowing all dates of your final exams.**
 
+* 15% lecture attendance - measured by worksheet completion [ proposal: attend 80% of lectures for full attendance credit]
+* 20% in-class midterm exam (could be 25% or 30%)
+* 20% in-class final exam. **Don't make any travel plans before knowing all dates of your final exams.**
+* 45% quizzes -  5 quizzes, 9 % each.
 
 The course grade will break down as follows:
 
