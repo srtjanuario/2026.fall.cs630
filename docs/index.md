@@ -228,7 +228,7 @@ Students must follow the BU Academic Conduct Code. Academic misconduct will be r
 
 ## Schedule
 
-This schedule is subject, and likely, to change as we progress through the semester. Reading chapters are from the [first textbook](https://cs-people.bu.edu/aene/cs237fa21/mcs.pdf) (LLM) or from the [second textbook](https://www.probabilitycourse.com/) (P), referred to by the acronyms of the author names.
+This schedule is subject, and likely, to change as we progress through the semester. Reading books are referred to by the acronyms of the author names.
 
 <table>
     <thead>
