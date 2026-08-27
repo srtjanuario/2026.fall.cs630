@@ -151,7 +151,7 @@ The course grade will be calculated as follows:
 
 ## Exam policies
 
-Both exams will consist of problem-solving and short questions about the material.
+Both exams will consist of problem-solving and short questions about the course material.
 
 * The duration and location of each exam are given in the course schedule.
     * The midterm exam will be during class time and takes 75 minutes.
