@@ -79,7 +79,9 @@ Expected background includes:
   * Algorithm design paradigms, such as greedy, divide and conquer, dynamic programming, various graph algorithms
   
 If you are unsure whether you have the required background, contact the instructor.
+
 ---
+
 ## Course platforms
 
 * **Piazza**: Used for announcements, Q&A, discussion, lecture notes, homework information, additional materials, and logistics.
@@ -91,6 +93,7 @@ If you are unsure whether you have the required background, contact the instruct
     * [https://apps.ankiweb.net](https://apps.ankiweb.net)
 
 ---
+
 ## Textbooks and Resources
 
 There is no single required textbook. Readings will be posted before lectures. Students are encouraged to consult additional public resources.
@@ -116,6 +119,7 @@ material on NP)
 * [Mathematics for Computer Science by Eric Lehman, Tom Leighton, and Albert Meyer](https://people.csail.mit.edu/meyer/mcs.pdf)(Useful background on discrete mathematics.)
 
 ---
+
 ## Course Structure
 
   * **Lectures**: Led one of the two instructors, Professors Erdos or Januario.
@@ -128,12 +132,16 @@ material on NP)
   * **Office hours**: We will hold multiple office hours throughout the week. The exact office hour schedule is available in the calendar.
 
   Some material covered in lecture and lab may not be in our textbooks. You are in all cases responsible to be up-to-date on the material. 
+
 ---
 
 ## Course atmosphere, diversity and inclusion
-We intend to provide a positive and inclusive atmosphere in class and on the associated virtual platforms. Students from a wide range of backgrounds and with a diverse set of perspectives are welcome. We ask that students treat each other with thoughtfulness and respect, and do their part to make all their peers feel welcome. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
 
 Class participation and questions are very much encouraged. Please ask as many questions in class, labs and on Piazza as you need. Chances are that your question and answer will be as helpful to your classmates as to you.
+
+We intend to provide a positive and inclusive atmosphere in class and on the associated virtual platforms. Students from a wide range of backgrounds and with a diverse set of perspectives are welcome. We ask that students treat each other with thoughtfulness and respect, and do their part to make all their peers feel welcome. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+
+If you require particular accommodations for exams or coursework, please contact the instructor (and forward any relevant documentation from Disability and Access Services) in a timely manner. If you are facing unusual circumstances during the semester, please reach out to us early on so that we can find a good arrangement.
 
 ---
 
@@ -142,11 +150,12 @@ Class participation and questions are very much encouraged. Please ask as many q
 The course grade will be calculated as follows:
 
 |       Component       | Weight |
-|          ---          | ---:   |
-| Worksheet completion  |   16%  |
+|          ---          |  ---:  |
+|  Worksheet completion |   16%  |
 | In-class midterm exam |   20%  |
 |  In-class final exam  |   20%  |
 |        Quizzes        |   46%  |
+
 
 ---
 
@@ -163,33 +172,19 @@ Both exams will consist of problem-solving and short questions about the materia
   * The content of the final exam is cumulative.
   * No collaboration whatsoever is permitted on exams, **any violation will be reported to the College.**
 
+
 ---
+
 
 ## Worksheet policies 
 
 In-class worksheets give students a structured way to practice concepts and test your understanding during lecture, therefore your presence in class is mandatory.
+
   * Worksheets will be graded by completion, given that you have clearly attempted to solve it. Writing "I don't know" does not count as a valid attempt.
   * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
   * If you end up with x% points, where x < 80, you will get x/80 of the points.
   * Most of the questions covered in worksheets can be found in our textbooks and slides. Read them!
   * While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
-
----
-
-* **Accommodations**: All are welcome in the course. If you require particular accommodations for
-exams or coursework, please contact the instructor (and forward any relevant documentation
-from Disability and Access Services) in a timely manner. If you are facing unusual circumstances
-during the semester, please reach out to us early on so that we can find a good arrangement.
-
-
-
-* TopHat is a web-based platform for interactive questions during class. Our goal in using it is to
-make lectures more interactive, get you thinking actively about the material, and get some
-feedback on what you are learning. TopHat questions are generally multiple choice. Most of the
-points (80%) are for participation. The remaining 20% is for correctness. You will get the full 5%
-of the course grade if you get at least 80% of the possible TopHat points for the semester.
-
----
 
 
 ---
@@ -463,21 +458,10 @@ submitted up to one week (7 days) after grades for that assignment have been pos
 ---
 ## AI Policy
 
-* As stated above, you may not use large language models like ChatGPT or Gemini to provide homework solutions. However, you may use them to help clarify concepts, discuss homework problems *after you have submitted and the deadline has passed*, or similar. Be wary, though, of hallucinations. It is good to double check any information you receive from LLMs with a reliable source.
-
+* You may not use large language models like ChatGPT or Gemini to provide homework solutions. However, you may use them to help clarify concepts, discuss homework problems *after you have submitted and the deadline has passed*, or similar. Be wary, though, of hallucinations. It is good to double-check any information you receive from LLMs with a reliable source.
 
 ---
-## Miscellaneous
 
-**LaTeX resources**
-
-*   [TexShop](http://pages.uoregon.edu/koch/texshop/) is a latex editor for the Mac platform;
-*   [TexNiCenter](http://www.texniccenter.org/) is a text editor for Windows;
-*   [Overleaf](https://www.overleaf.com/) is a web-based latex system (that allows you to avoid latex installation on your machine).
-*   Not so short [intro to latex](https://tobi.oetiker.ch/lshort/lshort.pdf);
-*   A [latex tutorial](http://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf).
-
-**Homework template files**: [tex](sample-hw-solution.tex), [pdf](sample-hw-solution.pdf), [jpg](example-hw-image.jpg).
 
 ---
 ## FAQ
