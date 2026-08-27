@@ -1,15 +1,6 @@
 # CAS CS 630 - Graduate Algorithms - Fall 2026
 
 ---
-## Course description
-
-This course examines advanced algorithmic topics and methods for CS graduate students, including matrix decomposition techniques and applications, linear programming, fundamental discrete and continuous optimization methods, probabilistic algorithms, NP-hard problems and approximation techniques, and algorithms for very large data sets.
-
-* **Course objectives**
-    * By the conclusion of this course, students will be able to identify and prove when a computational problem is NP-hard, and design effective approximation algorithms or local search heuristics with provable performance guarantees, design and analyze probabilistic (randomized) algorithms to achieve better average-case efficiency, lower space complexity, or simpler implementations than traditional deterministic alternatives. XXXXXX
-
----
-
 ## Course Staff
 
 <table class="staff-table">
@@ -67,51 +58,47 @@ This course examines advanced algorithmic topics and methods for CS graduate stu
 </center>
 
 ---
+## Course description
+
+This course examines advanced algorithmic topics and methods for CS graduate students, including matrix decomposition techniques and applications, linear programming, fundamental discrete and continuous optimization methods, probabilistic algorithms, NP-hard problems and approximation techniques, and algorithms for very large data sets.
+
+The course builds on undergraduate algorithms, including algorithm design, correctness proofs, and running-time analysis.
+
+**Intended audience**: MS and advanced BA students. PhD students should take CS530 instead.
+
+---
 ## Prerequisites
 
-This course is designed for Computer Science graduate students aiming to satisfy core theoretical requirements or build a foundation for advanced research. It is also open to advanced undergraduates (typically juniors or seniors) who have excelled in introductory algorithms (such as CAS CS 330) and possess the mathematical maturity required for graduate-level theory.
+Students should have completed an algorithms course at the level of **CS330: Introduction to Analysis of Algorithms**.
 
-* **Undergraduate prerequisite**
-    * CS330 Introduction to Analysis of Algorithms
+Expected background includes:
 
-* **Graduate prerequisite**
-    * An algorithms course at the level of CS330. If you’re not sure whether you have the background, you must talk to the instructor.
-    * Topics that you should be familiar with from your previous studies:
-        * Proof techniques (e.g. direct proof, proof by contradiction, induction)
-        * Data structures (e.g. lists, queues, heaps, hash tables, trees, graph adjacency list)
-        * Asymptotic analysis of running time (i.e. big-Oh)
-        * Algorithm design paradigms, such as greedy, divide and conquer, dynamic programming, various graph algorithms
+  * Proof techniques (e.g. direct proof, proof by contradiction, induction)
+  * Data structures (e.g. lists, queues, heaps, hash tables, trees, graph adjacency list)
+  * Asymptotic analysis of running time (i.e. big-Oh)
+  * Algorithm design paradigms, such as greedy, divide and conquer, dynamic programming, various graph algorithms
 
-Note that this course is intended for MS and advanced BA students. **PhD students should take
-CS530 instead**.
-
+If you are unsure whether you have the required background, contact the instructor.
 ---
-## Resources
+## Course platforms
 
-Sign up ASAP:
-
-* **Piazza**:
+* **Piazza**: Used for announcements, Q&A, discussion, lecture notes, homework information, additional materials, and logistics.
     * [https://piazza.com/bu/fall2026/cs630](https://piazza.com/bu/fall2026/cs630)
-* **Gradescope**:
+* **Gradescope**: Used for homework submission
     * [https://www.gradescope.com/courses/000000](https://www.gradescope.com/courses/000000)
     * Entry Code: AAAAAA
-* **TopHat**: A platform for in-class interaction and questions. You have to purchase a membership, there are semester and year-long options. If you use TopHat in multiple courses, you only have to pay the fee once.
-    * [https://app.tophat.com/](https://app.tophat.com/)
-    * course code 000000
-* **iClicker**: A platform for in-class interaction and questions. You have to purchase a Pro membership, there are semester and year-long options.
-    * [https://join.iclicker.com/ZSDO](https://join.iclicker.com/ZSDO)
+* **Anki**: Used for studing flashcard with short definitions.
+    * [https://apps.ankiweb.net](https://apps.ankiweb.net)
 
 ---
-## Course atmosphere, diversity and inclusion
-We intend to provide a positive and inclusive atmosphere in class and on the associated virtual platforms. Students from a wide range of backgrounds and with a diverse set of perspectives are welcome. We ask that students treat each other with thoughtfulness and respect, and do their part to make all their peers feel welcome. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+## Textbooks and Resources
 
----
-## Textbooks
+There is no single required textbook. Readings will be posted before lectures. Students are encouraged to consult additional public resources.
 
-There is no one textbook that covers every topic in this course. Hence, instead we will post the reading material prior to each lecture. There are also many resources - such as lecture notes, book chapters, tutorials and videos - publicly available. We encourage you
-to seek out those resources too for additional learning.
+While the textbooks will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the
+material. 
 
-Some useful textbooks:
+Recommended references:
 
 * [Algorithm Design, by Kleinberg and Tardos](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350?srsltid=AfmBOoohtVV4wxqb0YsNmueTOh672kvs4WnW5B5KNwscHMxVxYfMiqyW)
 * [Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
@@ -129,10 +116,76 @@ material on NP)
 * [Mathematics for Computer Science by Eric Lehman, Tom Leighton, and Albert Meyer](https://people.csail.mit.edu/meyer/mcs.pdf)(Useful background on discrete mathematics.)
 
 ---
-## Structure
-  * **Lectures**: This course has two instructors - professors Erdos and Januario - who will run the course together. On any given day one of the two instructors will give the lecture. The class consists of two 75 minute lectures (Tues, Thur) and one 50 minute discussion (Wed) each week. Attendance in lectures is mandatory and will be tracked through TopHat participation (see later section for details). The TF will lead the discussion sessions. The objective is to reinforce the concepts covered in the lectures through problem-solving, and to provide clarification and guidance on the homework assignments.
-  * **Discussion Labs**: Labs will be an invaluable part of the course involving interactive problem-solving sessions, tips on homework questions, and supplemental material not covered in lecture. We will post lab notes on Piazza in advance -- please read before coming to lab. Solutions will be posted after all labs conclude.
-  * **Office hours**: We will hold multiple office hours throughout the week, the purpose of these is to answer specific questions about the material and help with assignments. Students are welcome to attend office hours with any of the instructors or TF. The exact office hour schedule is available in the calendar.
+## Course Structure
+
+  * **Lectures**: Led one of the two instructors, Professors Erdos or Januario.
+     * **Meetings**: Tuesdays and Thursdays, 75 minutes each.
+     * **Attendance**: Mandatory and tracked through graded worksheets.
+     
+  * **Discussion Labs**: Led by the Teaching Fellow.
+     * **Meetings**: Wednesdays, 50 minutes each.
+     * **Attendance**: Mandatory, with occasional graded quizzes.
+  * **Office hours**: We will hold multiple office hours throughout the week. The exact office hour schedule is available in the calendar.
+
+  Some material covered in lecture and lab may not be in our textbooks. You are in all cases responsible to be up-to-date on the material. 
+---
+
+## Course atmosphere, diversity and inclusion
+We intend to provide a positive and inclusive atmosphere in class and on the associated virtual platforms. Students from a wide range of backgrounds and with a diverse set of perspectives are welcome. We ask that students treat each other with thoughtfulness and respect, and do their part to make all their peers feel welcome. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally or for other students or student groups.
+
+Class participation and questions are very much encouraged. Please ask as many questions in class, labs and on Piazza as you need. Chances are that your question and answer will be as helpful to your classmates as to you.
+
+---
+
+## Grading
+
+The course grade will be calculated as follows:
+
+|       Component       | Weight |
+|          ---          | ---:   |
+| Worksheet completion  |   16%  |
+| In-class midterm exam |   20%  |
+|  In-class final exam  |   20%  |
+|        Quizzes        |   46%  |
+
+## Exam policies
+
+Both exams will consist of problem-solving and short questions about the material.
+
+  * Students must pass both exams with at least 40% of the grade to pass the course.
+  * Don't make any travel plans before knowing all dates of your final exams.
+  * **Incomplete for this class will be granted based on** [CAS Policy](https://www.bu.edu/cas/faculty-staff/instructors-guide/incomplete-grades/).
+  * Students must pass both exams with at least 40% of the grade to pass the course. **This will be strictly enforced.**
+  * Makeup exams will only be given in documented cases of serious illness.
+  * Each exam duration and its location are given in the course schedule. The midterm will be during class time and takes 75 minutes. The final is during the University-assigned final exam slot.
+  * The content of the final exam is cumulative.
+  * No collaboration whatsoever is permitted on exams, **any violation will be reported to the College.**
+
+## Worksheet policies 
+
+In-class worksheets give students a structured way to practice concepts and test your understanding during lecture, therefore your presence in class is mandatory.
+  * Worksheets will be graded by completion, given that you have clearly attempted to solve it. Writing "I don't know" does not count as a valid attempt.
+  * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
+  * If you end up with x% points, where x < 80, you will get x/80 of the points.
+  * Most of the questions covered in worksheets can be found in our textbooks and slides. Read them!
+  * While our textbook will be very helpful, it is an imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the material.
+
+* **Accommodations**: All are welcome in the course. If you require particular accommodations for
+exams or coursework, please contact the instructor (and forward any relevant documentation
+from Disability and Access Services) in a timely manner. If you are facing unusual circumstances
+during the semester, please reach out to us early on so that we can find a good arrangement.
+
+
+
+* TopHat is a web-based platform for interactive questions during class. Our goal in using it is to
+make lectures more interactive, get you thinking actively about the material, and get some
+feedback on what you are learning. TopHat questions are generally multiple choice. Most of the
+points (80%) are for participation. The remaining 20% is for correctness. You will get the full 5%
+of the course grade if you get at least 80% of the possible TopHat points for the semester.
+
+---
+
+
 ---
 ## Schedule
 
@@ -335,13 +388,10 @@ Students with exam accommodations, regardless or their final exam conflict, will
 
 
 ---
-## [Exams](duck.png)
 
-*   Both exams will consist of problem-solving and short questions about the material.
-*   Each exam duration and its location are given in the course schedule.
-*   The content of the final is cumulative.
-*   No collaboration whatsoever is permitted on exams, **any violation will be reported to the College.**
-*   Makeup exams will only be given in documented cases of serious illness.
+
+
+
 
 ---
 ## Quizzes
@@ -351,59 +401,7 @@ Students with exam accommodations, regardless or their final exam conflict, will
 *   We use [Anki](https://apps.ankiweb.net/) for flashcards. You can download a free app at that link. We will also post the flashcards in plaintext if you prefer to print them out or just look at them on a website.
 
 ---
-## Grading
 
-The course grade will be calculated as follows:
-
-*   5% class participation (based on TopHat)
-*   5% lab attendance
-*   10% quizzes
-*   20% weekly homework assignments
-*   25% in-class midterm exam
-*   35% in-class final exam. **Don't make any travel plans before knowing all dates of your final exams.**
-
-* 15% lecture attendance - measured by worksheet completion [ proposal: attend 80% of lectures for full attendance credit]
-* 20% in-class midterm exam (could be 25% or 30%)
-* 20% in-class final exam. **Don't make any travel plans before knowing all dates of your final exams.**
-* 45% quizzes -  5 quizzes, 9 % each.
-
-The course grade will break down as follows:
-
-* 5% class participation (based on TopHat)
-* 30% weekly homework assignments (due Wednesdays, first hw due Wed, Sept. 18, 2024).
-* 30% in-class midterm exam (in-class, planned for Thur, Oct. 10, 2024).
-* 35% comprehensive final (during finals week). **Don't make any travel plans before knowing all dates of your final exams.**
-
-Students must pass both exams with at least 40% of the grade to pass the course. **This will be
-strictly enforced.**
-
-* **Last day to drop without a “W”**: Oct 8, 2024. With a “W”: Nov 12, 2024. **Incompletes for this class will be granted based on** [CAS Policy](https://www.bu.edu/cas/faculty-staff/instructors-guide/incomplete-grades/).
-
-* **Exams**: Both exams will consist of problem solving and short questions about the material. The
-midterm will be during class time and takes 75 minutes. The final is during the
-University-assigned final exam slot. The content of the final is cumulative.
-No collaboration whatsoever is permitted on exams, any violations will be reported to the
-College.
-
-* **Accommodations**: All are welcome in the course. If you require particular accommodations for
-exams or coursework, please contact the instructor (and forward any relevant documentation
-from Disability and Access Services) in a timely manner. If you are facing unusual circumstances
-during the semester, please reach out to us early on so that we can find a good arrangement.
-
-* **Attendance and participation**: Your participation grade depends on answering TopHat questions, which requires your presence in class. While our textbook will be very helpful, it is an
-imperfect substitute for in-class learning, which is the fastest (and easiest) way to learn the
-material. Some material covered in lecture and lab may not be in our textbooks. You are in all
-cases responsible to be up to date on the material. Class participation and questions are very
-much encouraged. Please ask as many questions in class, labs and on Piazza as you need.
-Chances are that your question and answer will be as helpful to your classmates as to you.
-
-* TopHat is a web-based platform for interactive questions during class. Our goal in using it is to
-make lectures more interactive, get you thinking actively about the material, and get some
-feedback on what you are learning. TopHat questions are generally multiple choice. Most of the
-points (80%) are for participation. The remaining 20% is for correctness. You will get the full 5%
-of the course grade if you get at least 80% of the possible TopHat points for the semester.
-
----
 ## Homework Policy
 
 <ul>
