@@ -51,7 +51,7 @@
 ---
 ## Course description
 
-This course examines advanced algorithmic topics and methods for CS graduate students, including matrix decomposition techniques and applications, linear programming, fundamental discrete and continuous optimization methods, probabilistic algorithms, NP-hard problems and approximation techniques, and algorithms for very large data sets.
+This course examines advanced algorithmic topics and methods for CS graduate students, including   NP-hard problems, approximation techniques, probabilistic algorithms, and algorithms for very large data sets.
 
 The course builds on undergraduate algorithms, including algorithm design, correctness proofs, and running-time analysis.
 
@@ -143,7 +143,7 @@ The course grade will be calculated as follows:
 |          ---          |  ---:  |
 |  Worksheet completion |   16%  |
 | In-class midterm exam |   20%  |
-|  In-class final exam  |   20%  |
+| Final exam during finals week  |   20%  |
 |        Quizzes        |   44%  |
 
 
@@ -154,8 +154,8 @@ The course grade will be calculated as follows:
 Both exams will consist of problem-solving and short questions about the course material.
 
 * The duration and location of each exam are given in the course schedule.
-    * The midterm exam will be during class time and takes 75 minutes.
-    * The final exam is during the University-assigned final exam slot.
+    * The midterm exam will be during class time and takes 75 minutes, tentatively scheduled for **Tuesday, October 27**.
+    * The final exam is 120 minutes, scheduled during the University-assigned final exam slot.
 * The content of the final exam is cumulative.
 * Exams are closed-book and closed-note unless otherwise announced. Phones, smartwatches, laptops, and other electronic devices are not permitted.
 * No collaboration whatsoever is permitted on exams; any violation will be reported to the College.
@@ -174,11 +174,11 @@ In-class worksheets give you a structured way to practice concepts and test your
 * Printed and online versions of the worksheets will be made available on the day of each lecture.
 * Peer collaboration is strongly encouraged for in-class worksheets.
 * Once completed, worksheets must be submitted electronically through Gradescope no later than 2:00 PM on the day of the lecture.
-* Submit worksheet solutions as **one single PDF file** with high-quality images. Illegible submissions will receive a 0. We recommend using [Dropbox](https://www.dropbox.com/referrals/AABXucmmhueiq5iaPPSTVfnTpOeddYmso_0?src=global9) or [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets.
+* Submit worksheet solutions as **one single PDF file** with high-quality images. <!-- Illegible submissions will receive a 0. We recommend using [Dropbox](https://www.dropbox.com/referrals/AABXucmmhueiq5iaPPSTVfnTpOeddYmso_0?src=global9) or [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets.-->
 * Worksheets will be graded by completion, provided that you have clearly attempted to solve them. Writing "I don't know" does not count as a valid attempt.
 * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
 * If you end up with x% points, where x < 80, you will get x/80 of the worksheet points.
-* There are no makeup worksheets except in cases required by university policy or approved accommodations. Completing 80% of the worksheets is sufficient to receive full credit, which is intended to cover ordinary illness, travel delays, or emergencies.
+* There are no makeup worksheets except in cases required by university policy or approved accommodations. Completing 80% of the worksheets is sufficient to receive full credit, which is intended to cover any absence due to illness, travel delays, or emergencies.
   
 
 ---
@@ -241,7 +241,7 @@ This schedule is subject, and likely, to change as we progress through the semes
     <tbody>
         <tr>
             <td> <strong>Lec 1</strong><br> Thursday<br> Sep 3 </td>
-            <td> <b>Topics</b>: Course logistics <br>
+            <td> <b>Topics</b>: Course info, difficult problems and complexity classes <br>
                  <b>Read</b>: Syllabus <br>
                  <b>Do</b>: Sign up to websites listed under resources
             </td>
@@ -249,7 +249,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 2</strong><br> Tuesday<br> Sep 8 </td>
-            <td> <b>Topics</b>: Complexity classes, NP-hard, NP-C problems <br>
+            <td> <b>Topics</b>: NP-hard and NP-C problems, reductions <br>
                 <b>Read</b>:  <br>
                 <b>Do:</do>
             </td>
@@ -257,14 +257,14 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
-            <td> <b>Topics</b>: Np-hard continued: more reductions, Feedback Arc Set <br>
+            <td> <b>Topics</b>: Np-hard continued <br>
                  <b>Read</b>:  <br>
             </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 4</strong><br> Tuesday<br> Sep 15 </td>
-            <td> <b>Topics</b>: Approximation algorithms: definitions and examples<br> 
+            <td> <b>Topics</b>: Approximation algorithms: definition, covering problems<br> 
             <!-- see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof  -->
             <b>Read</b>:  <br>
             </td>
@@ -272,7 +272,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 5</strong><br> Thursday<br> Sep 17 </td>
-            <td> <b>Topics</b>: Set cover, load balancing and more approximation algorithms.<br> 
+            <td> <b>Topics</b>: Load Balancing<br> 
             <!-- LB: see slides F22/10/06  -->
             <b>Read</b>:  <br>
             </td>
@@ -296,23 +296,23 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 8</strong><br> Tuesday<br> Sep 29 </td>
-            <td> <b>Topics</b>: TSP approx<br> see slides F24/10/08 - uses MST. quick review of what MST is </td>
+            <td> <b>Topics</b>: Traveling Sales Person approximation with MSTs <br> <!-- see slides F24/10/08 - uses MST. quick review of what MST is --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 9</strong><br> Thursday<br> Oct 1 </td>
-            <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime </td>
+            <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> <!-- MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime --></td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 10</strong><br> Tuesday<br> Oct 6 </td>
-            <td> <b>Topics</b>: extra buffer lecture<br> finish remaining topics, optional other advanced data structures, e.g. some kind of self-adjusting trees? </td>
+            <td> <b>Topics</b>: MST continued </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 11</strong><br> Thursday<br> Oct 8 </td>
             <td> <b>Topics</b>: Sorting: worst/best/runtime, amortized analysis, expected runtime, recurrences<br> 
-            goal: get a better understanding of runtime analysis; especially that while worst case is often bad, we can expect better in practice. How we can quantify/compute this. Intro to some basic notions of probability; basic idea of randomization in algo, expected values. see slides F24/11/12 
+           <!--  goal: get a better understanding of runtime analysis; especially that while worst case is often bad, we can expect better in practice. How we can quantify/compute this. Intro to some basic notions of probability; basic idea of randomization in algo, expected values. see slides F24/11/12 -->
             </td>
             <td> Tiago </td>
         </tr>
@@ -328,87 +328,87 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 12</strong><br> Thursday<br> Oct 15 </td>
-            <td> <b>Topics</b>: notions of probability, Karger's rnd min-cut algo &amp; analysis<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best </td>
+            <td> <b>Topics</b>: Karger's min-cut algorithm <!-- notions of probability, Karger's rnd min-cut algo &amp; analysis<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 13</strong><br> Tuesday<br> Oct 20 </td>
-            <td> <b>Topics</b>: rand content resolution </td>
+            <td> <b>Topics</b>: Random Content Resolution </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 14</strong><br> Thursday<br> Oct 22 </td>
-            <td> <b>Topics</b>: Lectures 12-13 (prob, min-cut, content resolution) continued<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best </td>
+            <td> <b>Topics</b>: probabilistic algorithms continued<br> <!-- In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 15</strong><br> Tuesday<br> Oct 27 </td>
-            <td> Midterm? </td>
-            <td> Midterm? </td>
+            <td> Midterm </td>
+            
         </tr>
         <tr>
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
-            <td> <b>Topics</b>: rnd Load Balancing, tail bounds<br> See slides F24/10/24 </td>
+            <td> <b>Topics</b>: Randomized Load Balancing, tail bounds<br> <!-- See slides F24/10/24 --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 17</strong><br> Tuesday<br> Nov 3 </td>
-            <td> <b>Topics</b>: intro to hash tables through rnd lb, hash table operations<br> notion of hash function, collisions, separate chaining and load factors. See F24/10/29 </td>
+            <td> <b>Topics</b>: hashing, hash table operations<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 18</strong><br> Thursday<br> Nov 5 </td>
-            <td> <b>Topics</b>: cont hash table operations: linear probing, quadratic probing, potential attacks<br> (go slow!!!) F24/10/29 ( a little in 10/31) </td>
+            <td> <b>Topics</b>: cont hash table operations: linear probing, quadratic probing, potential attacks<br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 19</strong><br> Tuesday<br> Nov 10 </td>
-            <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> F24/10/31 </td>
+            <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> <!-- F24/10/31 --></td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 20</strong><br> Thursday<br> Nov 12 </td>
-            <td> <b>Topics</b>: computing load: balls and bins , power of two choices<br> F24/10/31 </td>
+            <td> <b>Topics</b>: computing load: balls and bins , power of two choices<br> <!-- F24/10/31 --> </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 21</strong><br> Tuesday<br> Nov 17 </td>
-            <td> <b>Topics</b>: Bloom filters<br> F24/11/05 notion, real life applications, analysis </td>
+            <td> <b>Topics</b>: Bloom filters<br> <!-- F24/11/05 notion, real life applications, analysis --> </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 22</strong><br> Thursday<br> Nov 19 </td>
-            <td> <b>Topics</b>: Bloom filters continued<br> Flajolet-Martin: count unique elements: combination of Bloom filters and intro to streaming algos </td>
+            <td> <b>Topics</b>: Bloom filters continued<br> <!-- Flajolet-Martin: count unique elements: combination of Bloom filters and intro to streaming algos --> </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 23</strong><br> Tuesday<br> Nov 24 </td>
-            <td> <b>Topics</b>: something fun pre-Thanksgiving </td>
+            <td> <b>Topics</b>: fun topic pre-Thanksgiving </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Thanksgiving</strong><br> Thursday<br> Nov 26 </td>
-            <td>  </td>
+            <td> Thanksgiving break </td>
             <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 24</strong><br> Tuesday<br> Dec 1 </td>
-            <td> <b>Topics</b>: streaming and sketching: reservoir sampling, frequent items<br> goal: appreciate the notion of streaming data, lack of storage capacity, current best result keeping.  - Dora's CS565 slides </td>
+            <td> <b>Topics</b>: streaming and sketching: reservoir sampling, frequent items<br> <!-- goal: appreciate the notion of streaming data, lack of storage capacity, current best result keeping.  - Dora's CS565 slides --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 25</strong><br> Thursday<br> Dec 3 </td>
-            <td> <b>Topics</b>: count-min-sketch<br> Dora's CS565 slides </td>
+            <td> <b>Topics</b>: count-min-sketch<br> <!-- Dora's CS565 slides --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 26</strong><br> Tuesday<br> Dec 8 </td>
-            <td> <b>Topics</b>: mtx sketching: rnd, CUR, frequent directions<br> Dora's CS565 slides </td>
+            <td> <b>Topics</b>: mtx sketching: rnd, CUR, frequent directions<br> <!--  Dora's CS565 slides -->  </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 26</strong><br> Thursday<br> Dec 10 </td>
-            <td> <b>Topics</b>: final lecture - finish stuff or fun topics </td>
+            <td> <b>Topics</b>: final lecture  </td>
             <td> Tiago </td>
         </tr>
     </tbody>
