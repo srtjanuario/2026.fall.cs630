@@ -239,6 +239,12 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
     </thead>
     <tbody>
+         <tr>
+            <td> <strong>Lab 1</strong><br> Wednesday <br> Sep 2 </td>
+            <td> <b> Labs cancelled  </b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 1</strong><br> Thursday<br> Sep 3 </td>
             <td> <b>Topics</b>: Course info, difficult problems and complexity classes <br>
@@ -255,6 +261,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             </td>
             <td> Dora </td>
         </tr>
+                     <tr>
+            <td> <strong>Lab 2</strong><br> Wednesday <br> Sep 9 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
             <td> <b>Topics</b>: Np-hard continued <br>
@@ -269,6 +281,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <b>Read</b>:  <br>
             </td>
             <td> Tiago </td>
+        </tr>
+                     <tr>
+            <td> <strong>Lab 3</strong><br> Wednesday <br> Sep 16 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 5</strong><br> Thursday<br> Sep 17 </td>
@@ -286,6 +304,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             </td>
             <td> Tiago </td>
         </tr>
+                     <tr>
+            <td> <strong>Lab 4</strong><br> Wednesday <br> Sep 23 </td>
+            <td> <b> Quiz 1 </b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 7</strong><br> Thursday<br> Sep 24 </td>
             <td> <b>Topics</b>: Bin packing<br> 
@@ -299,6 +323,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: Traveling Sales Person approximation with MSTs <br> <!-- see slides F24/10/08 - uses MST. quick review of what MST is --> </td>
             <td> Dora </td>
         </tr>
+                     <tr>
+            <td> <strong>Lab 5</strong><br> Wednesday <br> Sep 30 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 9</strong><br> Thursday<br> Oct 1 </td>
             <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> <!-- MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime --></td>
@@ -308,6 +338,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 10</strong><br> Tuesday<br> Oct 6 </td>
             <td> <b>Topics</b>: MST continued </td>
             <td> Dora </td>
+        </tr>
+                     <tr>
+            <td> <strong>Lab 6</strong><br> Wednesday <br> Oct 7 </td>
+            <td> <b>Quiz 2</b> 
+            </td>
+            <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 11</strong><br> Thursday<br> Oct 8 </td>
@@ -326,6 +362,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             </td>
             <td style="background-color: LightYellow"> </td>
         </tr>
+                      <tr>
+            <td> <strong>Lab 7</strong><br> Wednesday <br> Oct 14 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 12</strong><br> Thursday<br> Oct 15 </td>
             <td> <b>Topics</b>: Karger's min-cut algorithm <!-- notions of probability, Karger's rnd min-cut algo &amp; analysis<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
@@ -336,6 +378,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: Random Content Resolution </td>
             <td> Tiago </td>
         </tr>
+                      <tr>
+            <td> <strong>Lab 8</strong><br> Wednesday <br> Oct 21 </td>
+            <td> <b> Quiz 3</b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 14</strong><br> Thursday<br> Oct 22 </td>
             <td> <b>Topics</b>: probabilistic algorithms continued<br> <!-- In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
@@ -344,6 +392,12 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 15</strong><br> Tuesday<br> Oct 27 </td>
             <td> Midterm </td>
+            <td>  </td>
+        </tr>
+                      <tr>
+            <td> <strong>Lab 9</strong><br> Wednesday <br> Oct 28 </td>
+            <td> <b></b> 
+            </td>
             <td>  </td>
         </tr>
         <tr>
@@ -356,6 +410,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: hashing, hash table operations<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
             <td> Dora </td>
         </tr>
+                      <tr>
+            <td> <strong>Lab 10</strong><br> Wednesday <br> Nov 4 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 18</strong><br> Thursday<br> Nov 5 </td>
             <td> <b>Topics</b>: cont hash table operations: linear probing, quadratic probing, potential attacks<br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> </td>
@@ -366,6 +426,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> <!-- F24/10/31 --></td>
             <td> Dora </td>
         </tr>
+                    tr>
+            <td> <strong>Lab 11</strong><br> Wednesday <br> Nov 11 </td>
+            <td> <b>Quiz 4</b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 20</strong><br> Thursday<br> Nov 12 </td>
             <td> <b>Topics</b>: computing load: balls and bins , power of two choices<br> <!-- F24/10/31 --> </td>
@@ -375,6 +441,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 21</strong><br> Tuesday<br> Nov 17 </td>
             <td> <b>Topics</b>: Bloom filters<br> <!-- F24/11/05 notion, real life applications, analysis --> </td>
             <td> Tiago </td>
+        </tr>
+                    tr>
+            <td> <strong>Lab 12</strong><br> Wednesday <br> Nov 18 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 22</strong><br> Thursday<br> Nov 19 </td>
@@ -396,6 +468,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: streaming and sketching: reservoir sampling, frequent items<br> <!-- goal: appreciate the notion of streaming data, lack of storage capacity, current best result keeping.  - Dora's CS565 slides --> </td>
             <td> Dora </td>
         </tr>
+                    tr>
+            <td> <strong>Lab 13</strong><br> Wednesday <br> Dec 2 </td>
+            <td> <b>Quiz 5</b> 
+            </td>
+            <td>  </td>
+        </tr>
         <tr>
             <td> <strong>Lec 25</strong><br> Thursday<br> Dec 3 </td>
             <td> <b>Topics</b>: count-min-sketch<br> <!-- Dora's CS565 slides --> </td>
@@ -405,6 +483,12 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 26</strong><br> Tuesday<br> Dec 8 </td>
             <td> <b>Topics</b>: mtx sketching: rnd, CUR, frequent directions<br> <!--  Dora's CS565 slides -->  </td>
             <td> Dora </td>
+        </tr>
+                    tr>
+            <td> <strong>Lab 14</strong><br> Wednesday <br> Dec 9 </td>
+            <td> <b></b> 
+            </td>
+            <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 26</strong><br> Thursday<br> Dec 10 </td>
