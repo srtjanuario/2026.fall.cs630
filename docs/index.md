@@ -344,7 +344,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 15</strong><br> Tuesday<br> Oct 27 </td>
             <td> Midterm </td>
-            
+            <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
