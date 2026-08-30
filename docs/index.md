@@ -96,13 +96,13 @@ Recommended references:
 * <span id="CLRS">CLRS -</span> Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein
 * <span id="DPV">DPV -</span> Algorithms, by Dasgupta, Papadimitriou, Vazirani
 * <span id="V">V -</span> Approximation Algorithms, by V. Vazirani
-* <span id="WS">WS -</span> The Design of Approximation Algorithms, by Williamson and Shmoys
+* <span id="WS">WS -</span> [The Design of Approximation Algorithms, by Williamson and Shmoys](https://www.designofapproxalgs.com/book.pdf)
 * Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan
 * [A First Course in Randomized Algorithms, by Nick Harvey](https://www.cs.ubc.ca/~nickhar/Book1.pdf)
 
 For prerequisite review:
 
-* [Algorithms Illuminated, by Tim Roughgarden](https://www.algorithmsilluminated.org) (the 4th part of the book also contains
+* Algorithms Illuminated, by Tim Roughgarden (the 4th part of the book also contains
 material on NP)
 * [Algorithms, by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 * [Mathematics for Computer Science by Eric Lehman, Tom Leighton, and Albert Meyer](https://people.csail.mit.edu/meyer/mcs.pdf) - Useful background on discrete mathematics.
