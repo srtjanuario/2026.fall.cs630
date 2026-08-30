@@ -92,12 +92,12 @@ There is no single required textbook. Readings will be posted on Piazza or the c
 
 Recommended references:
 
-* <span id="KT">KT -</span> [Algorithm Design, by Kleinberg and Tardos](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350?srsltid=AfmBOoohtVV4wxqb0YsNmueTOh672kvs4WnW5B5KNwscHMxVxYfMiqyW)
-* <span id="CLRS">CLRS -</span> [Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-* <span id="DPV">DPV -</span> [Algorithms, by Dasgupta, Papadimitriou, Vazirani](https://cseweb.ucsd.edu/~dasgupta/book/index.html)
-*  <span id="V">V -</span> [Approximation Algorithms, by V. Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
-* <span id="WS">WS -</span> [The Design of Approximation Algorithms, by Williamson and Shmoys](https://www.designofapproxalgs.com)
-* [Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
+* <span id="KT">KT -</span> Algorithm Design, by Kleinberg and Tardos
+* <span id="CLRS">CLRS -</span> Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein
+* <span id="DPV">DPV -</span> Algorithms, by Dasgupta, Papadimitriou, Vazirani
+* <span id="V">V -</span> Approximation Algorithms, by V. Vazirani
+* <span id="WS">WS -</span> The Design of Approximation Algorithms, by Williamson and Shmoys
+* Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan
 * [A First Course in Randomized Algorithms, by Nick Harvey](https://www.cs.ubc.ca/~nickhar/Book1.pdf)
 
 For prerequisite review:
