@@ -1,2 +1,2 @@
-# cs237sp26
-CS237 Spring 2026 Homepage
+# cs630fa26
+CS630 Fall 2026 Homepage

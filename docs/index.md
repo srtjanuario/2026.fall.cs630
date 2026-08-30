@@ -248,7 +248,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 1</strong><br> Thursday<br> Sep 3 </td>
             <td> <b>Topics</b>: Course info, difficult problems and complexity classes <br>
-                 <b>Read</b>: Syllabus <br>
+                 <b>Read</b>: Syllabus,
+                 <a href="#KT">KT 1</a>, <a href="#CLRS">CLRS 1.1-2</a>
+                 <br>
                  <b>Do</b>: Sign up to websites listed under <a href="#course-platforms">course platforms</a>.
             </td>
             <td> Dora </td>
@@ -256,7 +258,8 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 2</strong><br> Tuesday<br> Sep 8 </td>
             <td> <b>Topics</b>: NP-hard and NP-C problems, reductions <br>
-                <!-- <b>Read</b>:  <br> -->
+                <b>Read</b>: 
+                 <a href="#KT">KT 8.1-3</a>, <a href="#CLRS">CLRS 34.1-3</a>
                 <!-- <b>Do:</do> -->
             </td>
             <td> Dora </td>
@@ -270,7 +273,8 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
             <td> <b>Topics</b>: Np-hard continued <br>
-                 <!-- <b>Read</b>:  <br> -->
+                 <b>Read</b>: 
+                 <a href="#KT">KT 8.4-5</a>, <a href="#DPV">DPV 8.1-5</a>
             </td>
             <td> Dora </td>
         </tr>
@@ -279,7 +283,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: Approximation algorithms I: definitions, simple examples; acyclic subgraph, vertex cover, independent set, greedy set cover.<br> 
             <!-- see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof  -->
             <b>Read</b>:  
-            <a href="#KT">KT 11.3</a>, <a href="#KT">KT 11.4</a>, <a href="#CLRS">CLRS 35.1</a>, <a href="#CLRS">CLRS 35.3</a><br>
+            <a href="#KT">KT 11.3-4</a>, <a href="#CLRS">CLRS 35.1</a>, <a href="#CLRS">CLRS 35.3</a><br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -327,7 +331,11 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 8</strong><br> Tuesday<br> Sep 29 </td>
-            <td> <b>Topics</b>: Traveling Sales Person approximation with MSTs <br> <!-- see slides F24/10/08 - uses MST. quick review of what MST is --> </td>
+            <td> <b>Topics</b>: Traveling Sales Person approximation with MSTs <br> 
+            <!-- see slides F24/10/08 - uses MST. quick review of what MST is --> 
+            <b>Read</b>:  
+            <a href="#CLRS">CLRS 35.2</a>, <a href="#V">V 4</a>
+            </td>
             <td> Dora </td>
         </tr>
                      <tr>
@@ -338,12 +346,19 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 9</strong><br> Thursday<br> Oct 1 </td>
-            <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> <!-- MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime --></td>
+            <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> 
+            <!-- MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime -->
+            <b>Read</b>:  
+            <a href="#KT">KT 4.5</a>
+            </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 10</strong><br> Tuesday<br> Oct 6 </td>
-            <td> <b>Topics</b>: MST continued </td>
+            <td> <b>Topics</b>: MST continued <br>
+            <b>Read</b>:  
+            <a href="#KT">KT 4.6</a>
+            </td>
             <td> Dora </td>
         </tr>
         <tr>
