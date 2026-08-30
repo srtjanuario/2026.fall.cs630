@@ -77,8 +77,8 @@ If you are unsure whether you have the required background, contact the instruct
 * **Piazza**: Used for announcements, Q&A, discussion, lecture notes, general information, additional materials, and logistics.
     * [https://piazza.com/bu/fall2026/cs630](https://piazza.com/bu/fall2026/cs630)
 * **Gradescope**: Used for worksheet submission, quiz/exam grading, and regrade requests.
-    * [https://www.gradescope.com/courses/000000](https://www.gradescope.com/courses/000000)
-    * Entry Code: AAAAAA
+    * [[https://www.gradescope.com/courses/1377497](https://www.gradescope.com/courses/1377497)]
+    * Entry Code: K8YW73
 * **Anki**: Used for studying flashcards with short definitions. You can download a free app at the following link.
     * [https://apps.ankiweb.net](https://apps.ankiweb.net)
 
