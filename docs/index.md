@@ -72,7 +72,6 @@ Expected background includes:
 If you are unsure whether you have the required background, contact the instructor.
 
 ---
-
 ## Course platforms
 
 * **Piazza**: Used for announcements, Q&A, discussion, lecture notes, general information, additional materials, and logistics.
@@ -174,7 +173,8 @@ In-class worksheets give you a structured way to practice concepts and test your
 * Printed and online versions of the worksheets will be made available on the day of each lecture.
 * Peer collaboration is strongly encouraged for in-class worksheets.
 * Once completed, worksheets must be submitted electronically through Gradescope no later than 2:00 PM on the day of the lecture.
-* Submit worksheet solutions as **one single PDF file** with high-quality images. <!-- Illegible submissions will receive a 0. We recommend using [Dropbox](https://www.dropbox.com/referrals/AABXucmmhueiq5iaPPSTVfnTpOeddYmso_0?src=global9) or [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets.-->
+* Submit worksheet solutions as **one single PDF file** with high-quality images. 
+<!-- * We recommend using [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets. -->
 * Worksheets will be graded by completion, provided that you have clearly attempted to solve them. Writing "I don't know" does not count as a valid attempt.
 * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
 * If you end up with x% points, where x < 80, you will get x/80 of the worksheet points.
@@ -243,29 +243,29 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lab 1</strong><br> Wednesday <br> Sep 2 </td>
             <td> <b> Labs cancelled  </b> 
             </td>
-            <td>  </td>
+            <td> --- </td>
         </tr>
         <tr>
             <td> <strong>Lec 1</strong><br> Thursday<br> Sep 3 </td>
             <td> <b>Topics</b>: Course info, difficult problems and complexity classes <br>
                  <b>Read</b>: Syllabus <br>
-                 <b>Do</b>: Sign up to websites listed under resources
+                 <b>Do</b>: Sign up to websites listed under <a href="#course-platforms">course platforms</a>.
             </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 2</strong><br> Tuesday<br> Sep 8 </td>
             <td> <b>Topics</b>: NP-hard and NP-C problems, reductions <br>
-                <b>Read</b>:  <br>
-                <b>Do:</do>
+                <!-- <b>Read</b>:  <br> -->
+                <!-- <b>Do:</do> -->
             </td>
             <td> Dora </td>
         </tr>
-                     <tr>
+        <tr>
             <td> <strong>Lab 2</strong><br> Wednesday <br> Sep 9 </td>
             <td> <b></b> 
             </td>
-            <td>  </td>
+            <td>Pooria</td>
         </tr>
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
@@ -276,9 +276,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 4</strong><br> Tuesday<br> Sep 15 </td>
-            <td> <b>Topics</b>: Approximation algorithms: definition, covering problems<br> 
+            <td> <b>Topics</b>: Approximation algorithms I: definitions, simple examples; acyclic subgraph, vertex cover, independent set, greedy set cover.<br> 
             <!-- see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof  -->
-            <b>Read</b>:  <br>
+            <b>Read</b>:  KT 11.3, 11.4<br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -339,7 +339,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: MST continued </td>
             <td> Dora </td>
         </tr>
-                     <tr>
+        <tr>
             <td> <strong>Lab 6</strong><br> Wednesday <br> Oct 7 </td>
             <td> <b>Quiz 2</b> 
             </td>
@@ -362,7 +362,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             </td>
             <td style="background-color: LightYellow"> </td>
         </tr>
-                      <tr>
+        <tr>
             <td> <strong>Lab 7</strong><br> Wednesday <br> Oct 14 </td>
             <td> <b></b> 
             </td>
@@ -426,7 +426,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> <!-- F24/10/31 --></td>
             <td> Dora </td>
         </tr>
-                    tr>
+        <tr>
             <td> <strong>Lab 11</strong><br> Wednesday <br> Nov 11 </td>
             <td> <b>Quiz 4</b> 
             </td>
@@ -442,7 +442,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: Bloom filters<br> <!-- F24/11/05 notion, real life applications, analysis --> </td>
             <td> Tiago </td>
         </tr>
-                    tr>
+        <tr>
             <td> <strong>Lab 12</strong><br> Wednesday <br> Nov 18 </td>
             <td> <b></b> 
             </td>
@@ -468,7 +468,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: streaming and sketching: reservoir sampling, frequent items<br> <!-- goal: appreciate the notion of streaming data, lack of storage capacity, current best result keeping.  - Dora's CS565 slides --> </td>
             <td> Dora </td>
         </tr>
-                    tr>
+        <tr>
             <td> <strong>Lab 13</strong><br> Wednesday <br> Dec 2 </td>
             <td> <b>Quiz 5</b> 
             </td>
@@ -484,7 +484,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: mtx sketching: rnd, CUR, frequent directions<br> <!--  Dora's CS565 slides -->  </td>
             <td> Dora </td>
         </tr>
-                    tr>
+        <tr>
             <td> <strong>Lab 14</strong><br> Wednesday <br> Dec 9 </td>
             <td> <b></b> 
             </td>
