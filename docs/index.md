@@ -92,11 +92,11 @@ There is no single required textbook. Readings will be posted on Piazza or the c
 
 Recommended references:
 
-* [Algorithm Design, by Kleinberg and Tardos](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350?srsltid=AfmBOoohtVV4wxqb0YsNmueTOh672kvs4WnW5B5KNwscHMxVxYfMiqyW)
-* [Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-* [Algorithms, by Dasgupta, Papadimitriou, Vazirani](https://cseweb.ucsd.edu/~dasgupta/book/index.html)
-* [Approximation Algorithms, by V. Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
-* [The Design of Approximation Algorithms, by Williamson and Shmoys](https://www.designofapproxalgs.com)
+* <span id="KT">KT -</span> [Algorithm Design, by Kleinberg and Tardos](https://www.pearson.com/en-us/subject-catalog/p/algorithm-design/P200000003259/9780137546350?srsltid=AfmBOoohtVV4wxqb0YsNmueTOh672kvs4WnW5B5KNwscHMxVxYfMiqyW)
+* <span id="CLRS">CLRS -</span> [Introduction to Algorithms, by Cormen, Leiserson, Rivest, and Stein](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+* <span id="DPV">DPV -</span> [Algorithms, by Dasgupta, Papadimitriou, Vazirani](https://cseweb.ucsd.edu/~dasgupta/book/index.html)
+*  <span id="V">V -</span> [Approximation Algorithms, by V. Vazirani](https://link.springer.com/book/10.1007/978-3-662-04565-7)
+* <span id="WS">WS -</span> [The Design of Approximation Algorithms, by Williamson and Shmoys](https://www.designofapproxalgs.com)
 * [Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan](https://www.cambridge.org/core/books/randomized-algorithms/6A3E5CD760B0DDBA3794A100EE2843E8)
 * [A First Course in Randomized Algorithms, by Nick Harvey](https://www.cs.ubc.ca/~nickhar/Book1.pdf)
 
@@ -270,7 +270,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
             <td> <b>Topics</b>: Np-hard continued <br>
-                 <b>Read</b>:  <br>
+                 <!-- <b>Read</b>:  <br> -->
             </td>
             <td> Dora </td>
         </tr>
@@ -278,7 +278,8 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 4</strong><br> Tuesday<br> Sep 15 </td>
             <td> <b>Topics</b>: Approximation algorithms I: definitions, simple examples; acyclic subgraph, vertex cover, independent set, greedy set cover.<br> 
             <!-- see slides F24/09/24: find acyclic subgraph, VC 2-approx,  IS (D+1)-approx, Set Cover greedy with (k ln n )-approx proof  -->
-            <b>Read</b>:  KT 11.3, 11.4<br>
+            <b>Read</b>:  
+            <a href="#KT">KT 11.3</a>, <a href="#KT">KT 11.4</a>, <a href="#CLRS">CLRS 35.1</a>, <a href="#CLRS">CLRS 35.3</a><br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -290,9 +291,11 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 5</strong><br> Thursday<br> Sep 17 </td>
-            <td> <b>Topics</b>: Load Balancing<br> 
+            <td> <b>Topics</b>: Approximation algorithms II: Load Balancing, 2-approx and 3/2-approx<br> 
             <!-- LB: see slides F22/10/06  -->
-            <b>Read</b>:  <br>
+            <b>Read</b>:  
+            <a href="#KT">KT 11.1</a>
+            <br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -300,7 +303,9 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 6</strong><br> Tuesday<br> Sep 22 </td>
             <td> <b>Topics</b>: Center selection problem<br> 
             <!-- see slides F24/09/26  -->
-            <b>Read</b>:  <br>
+            <b>Read</b>:  
+            <a href="#KT">KT 11.2</a>, <a href="#DPV">DPV 9.2</a>
+            <br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -314,7 +319,9 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 7</strong><br> Thursday<br> Sep 24 </td>
             <td> <b>Topics</b>: Bin packing<br> 
             <!-- see slides F24/10/03  -->
-            <b>Read</b>:  <br>
+            <b>Read</b>:  
+            <a href="#V">V 9</a>, <a href="https://www.designofapproxalgs.com/book.pdf#page=73">WS 3.3</a>
+            <br>
             </td>
             <td> Tiago </td>
         </tr>
@@ -347,8 +354,11 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 11</strong><br> Thursday<br> Oct 8 </td>
-            <td> <b>Topics</b>: Sorting: worst/best/runtime, amortized analysis, expected runtime, recurrences<br> 
+            <td> <b>Topics</b>: Sorting; worst/best/expected runtime; recurrences; intro probability and randomization<br> 
            <!--  goal: get a better understanding of runtime analysis; especially that while worst case is often bad, we can expect better in practice. How we can quantify/compute this. Intro to some basic notions of probability; basic idea of randomization in algo, expected values. see slides F24/11/12 -->
+            <b>Read: </b>
+            <a href="#CLRS">CSLR 5.1-5.3</a>, <a href="#CLRS">CSLR 7.1-7.4</a>
+            <br>
             </td>
             <td> Tiago </td>
         </tr>
