@@ -106,6 +106,7 @@ For prerequisite review:
 material on NP)
 * [Algorithms, by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)
 * [Mathematics for Computer Science by Eric Lehman, Tom Leighton, and Albert Meyer](https://people.csail.mit.edu/meyer/mcs.pdf) - Useful background on discrete mathematics.
+* [Introduction to Probability, Statistics and Random processes, by H. Pishro-Nik](https://www.probabilitycourse.com/)
 
 ---
 
@@ -247,9 +248,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 1</strong><br> Thursday<br> Sep 3 </td>
-            <td> <b>Topics</b>: Course info, difficult problems and complexity classes <br>
+            <td> <b>Topics</b>: Course info, poly-time reductions intuition, examples: Clique, Independent Set, Vertex Cover  <br>
                  <b>Read</b>: Syllabus,
-                 <a href="#KT">KT 1</a>, <a href="#CLRS">CLRS 1.1-2</a>
+                 <a href="https://www.youtube.com/watch?v=pQsdygaYcE4"> popsci video by Quanta Magazine on P and NP  </a>, <a href="https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/">article in Quanta Magazine on the history of P vs NP.</a>
                  <br>
                  <b>Do</b>: Sign up to websites listed under <a href="#course-platforms">course platforms</a>.
             </td>
@@ -257,7 +258,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 2</strong><br> Tuesday<br> Sep 8 </td>
-            <td> <b>Topics</b>: NP-hard and NP-C problems, reductions <br>
+            <td> <b>Topics</b>: NP-hard and NP-C problems, reductions: Set Cover, Circuit SAT, 3-SAT (reduction via gadgets) <br>
                 <b>Read</b>: 
                  <a href="#KT">KT 8.1-3</a>, <a href="#CLRS">CLRS 34.1-3</a>
                 <!-- <b>Do:</do> -->
@@ -272,9 +273,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 3</strong><br> Thursday<br> Sep 10 </td>
-            <td> <b>Topics</b>: Np-hard continued <br>
+            <td> <b>Topics</b>: Np-C continued, sequencing problems: TSP, Hamiltonian Path and Cycle, Feedback Arc Set <br>
                  <b>Read</b>: 
-                 <a href="#KT">KT 8.4-5</a>, <a href="#DPV">DPV 8.1-5</a>
+                 <a href="#KT">KT 8.4-5</a>
             </td>
             <td> Dora </td>
         </tr>
