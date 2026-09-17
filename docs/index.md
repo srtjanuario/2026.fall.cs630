@@ -175,7 +175,7 @@ In-class worksheets give you a structured way to practice concepts and test your
 * Peer collaboration is strongly encouraged for in-class worksheets.
 * Once completed, worksheets must be submitted electronically through Gradescope no later than 11:59 PM on the day of the lecture. No extentions will be granted.
 * Submit worksheet solutions as **one single PDF file** with high-quality images. 
-<!-- * We recommend using [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets. -->
+* We recommend using [Gradescope mobile app](https://guides.gradescope.com/hc/en-us/articles/22016028459789-Using-the-Gradescope-Mobile-App-for-Students#h_01HH0C6Z9XD5NARRNN5SANHM5C) for [Android](https://play.google.com/store/apps/details?id=com.gradescope.student&hl=en_US) or [iOS](https://apps.apple.com/us/app/gradescope/id1563280912) to scan your worksheets.
 * Worksheets will be graded by completion, provided that you have clearly attempted to solve them. Writing "I don't know" does not count as a valid attempt.
 * You will get full worksheet points at the end of the semester if you complete at least 80% of the worksheets.
 * If you end up with x% points, where x < 80, you will get x/80 of the worksheet points.
