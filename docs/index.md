@@ -327,6 +327,9 @@ This schedule is subject, and likely, to change as we progress through the semes
             <b>Read</b>:  
             <a href="#V">V 9</a>, <a href="https://www.designofapproxalgs.com/book.pdf#page=73">WS 3.3</a>
             <br>
+            <b>Watch</b>:
+            <a href="https://www.youtube.com/watch?v=v5ZvL4as2y0">Rocks, Pebbles and Sand Story</a>
+            <br>
             </td>
             <td> Tiago </td>
         </tr>
