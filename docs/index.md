@@ -338,7 +338,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: Traveling Sales Person approximation with MSTs <br> 
             <!-- see slides F24/10/08 - uses MST. quick review of what MST is --> 
             <b>Read</b>:  
-            <a href="#CLRS">CLRS 35.2</a>, <a href="#V">V 4</a>
+            <a href="#KT">KT 4.5</a>, <a href="#V">V 3</a>
             </td>
             <td> Dora </td>
         </tr>
@@ -353,15 +353,15 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <b>Topics</b>: MSTs implementation: union-find, using amortized analysis<br> 
             <!-- MST algos: Kruskal's and Boruvka. Union-find for implementation, amortized analysis of runtime -->
             <b>Read</b>:  
-            <a href="#KT">KT 4.5</a>
+            <a href="#KT">KT 4.5</a> <a href="#CLRS">CLRS 19.1-2. </a>
             </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 10</strong><br> Tuesday<br> Oct 6 </td>
-            <td> <b>Topics</b>: MST continued <br>
+            <td> <b>Topics</b>: TSP approximation algorithm, local search <br>
             <b>Read</b>:  
-            <a href="#KT">KT 4.6</a>
+            <a href="#KT">KT 12.4</a>
             </td>
             <td> Dora </td>
         </tr>
