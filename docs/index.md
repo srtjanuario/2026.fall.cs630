@@ -404,7 +404,10 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 13</strong><br> Tuesday<br> Oct 20 </td>
-            <td> <b>Topics</b>: Random Content Resolution </td>
+            <td> <b>Topics</b>: Random Content Resolution
+            <b>Read: </b>
+            <a href="#KT">CSLR 13.1</a>, 
+            <br></td>
             <td> Tiago </td>
         </tr>
                       <tr>
@@ -425,13 +428,17 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
                       <tr>
             <td> <strong>Lab 9</strong><br> Wednesday <br> Oct 28 </td>
-            <td> <b></b> 
+            <td> Labs cancelled. <b></b> 
             </td>
             <td>  </td>
         </tr>
         <tr>
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
-            <td> <b>Topics</b>: Randomized Load Balancing, tail bounds<br> <!-- See slides F24/10/24 --> </td>
+            <td> <b>Topics</b>: Randomzied input, Hiring Problem, QuickSort<br> <!-- See slides F24/10/24 --> 
+            <b>Read: </b>
+            <a href="#CLRS">CSLR 5.1-5.2</a>, <a href="#CLRS">CSLR 7.1-7.4</a>
+            <br>
+            </td>
             <td> Dora </td>
         </tr>
         <tr>
