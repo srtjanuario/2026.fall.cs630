@@ -436,7 +436,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
             <td> <b>Topics</b>: Randomzied input, Hiring Problem, QuickSort<br> <!-- See slides F24/10/24 --> 
             <b>Read: </b>
-            <a href="#CLRS">CSLR 5.1-5.2</a>, <a href="#CLRS">CSLR 7.1-7.4</a>
+            <a href="#CLRS">CSLR 5.1-5.2</a>
             <br>
             </td>
             <td> Dora </td>
@@ -444,6 +444,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         <tr>
             <td> <strong>Lec 17</strong><br> Tuesday<br> Nov 3 </td>
             <td> <b>Topics</b>: hashing, hash table operations<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
+            <b>Read: </b>
+            <a href="#CLRS">CSLR 11.1-2, 11.4</a>,
+        </tr>td>
             <td> Dora </td>
         </tr>
                       <tr>
