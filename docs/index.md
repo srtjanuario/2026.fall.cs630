@@ -443,7 +443,7 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 17</strong><br> Tuesday<br> Nov 3 </td>
-            <td> <b>Topics</b>: hashing, hash table operations<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
+            <td> <b>Topics</b>: hashing, hash table operations, chaining, linear probing<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
             <b>Read: </b>
             <a href="#CLRS">CSLR 11.1-2, 11.4</a>,
         </tr>td>
@@ -457,12 +457,15 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 18</strong><br> Thursday<br> Nov 5 </td>
-            <td> <b>Topics</b>: cont hash table operations: linear probing, quadratic probing, potential attacks<br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> </td>
+            <td> <b>Topics</b>: cont hash table operations: linear and quadratic probing, uniersal hashing, cuckoo hashing. Minhash for similarity search. <br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 19</strong><br> Tuesday<br> Nov 10 </td>
             <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> <!-- F24/10/31 --></td>
+            <b>Read: </b>
+            <a href="#CLRS">CSLR 11.1-4</a>, <a href="https://www.brics.dk/RS/01/32/BRICS-RS-01-32.pdf"> cuckoo hashing paper </a>
+        </tr>td>
             <td> Dora </td>
         </tr>
         <tr>
