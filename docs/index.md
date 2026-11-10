@@ -445,7 +445,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> <strong>Lec 17</strong><br> Tuesday<br> Nov 3 </td>
             <td> <b>Topics</b>: hashing, hash table operations, chaining, linear probing<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
             <b>Read: </b>
-            <a href="#CLRS">CSLR 11.1-2, 11.4</a>,
+            <a href="#CLRS">CSLR 11.1-4</a>,<a href="https://www.brics.dk/RS/01/32/BRICS-RS-01-32.pdf"> cuckoo hashing paper </a>
         </tr>td>
             <td> Dora </td>
         </tr>
@@ -462,9 +462,9 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 19</strong><br> Tuesday<br> Nov 10 </td>
-            <td> <b>Topics</b>: hash tables: resizing tables, cuckoo hashing<br> <!-- F24/10/31 --></td>
+            <td> <b>Topics</b> locality sensitive hashing: Jaccard+Minhash, cosine+Simhash<br> <!-- F24/10/31 --></td>
             <b>Read: </b>
-            <a href="#CLRS">CSLR 11.1-4</a>, <a href="https://www.brics.dk/RS/01/32/BRICS-RS-01-32.pdf"> cuckoo hashing paper </a>
+            <a href="https://drive.google.com/file/d/1R4AwZyBAvQ82-PUIXyjZC2aajsCjo_rN/view?usp=sharing"> Leskovec, Rajaraman, Ullman: Mining Massive Datasets ch. 3. </a>  <a href="https://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf">M. Charikar paper on Simhash</a> 
         </tr>td>
             <td> Dora </td>
         </tr>
