@@ -1,6 +1,6 @@
 #separator:tab
 #html:true
-#tags column:3
+#tags column:2
 What is a polynomial-time reduction?	A problem \(X\) is polynomial-time reducible to a problem \(Y\), written \[X \le_P Y,\] if arbitrary instances of \(X\) can be solved using a polynomial number of standard computational steps plus a polynomial number of calls to an oracle or black-box algorithm for \(Y\).	cs630 reductions definitions
 What does the notation \(X \le_P Y\) mean?	The notation \[X \le_P Y\] means that problem \(X\) is polynomial-time reducible to problem \(Y\). Informally: if we had an efficient solver for \(Y\), then we could use it to solve \(X\) efficiently.	cs630 reductions notation
 In a reduction \(X \le_P Y\), which problem is used as the black box?	In \[X \le_P Y,\] problem \(Y\) is used as the black-box or oracle problem. We transform an instance of \(X\) into an instance of \(Y\), solve the \(Y\)-instance, and convert the answer back into a solution for \(X\).	cs630 reductions notation

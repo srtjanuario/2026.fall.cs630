@@ -97,8 +97,8 @@ Recommended references:
 * <span id="DPV">DPV -</span> Algorithms, by Dasgupta, Papadimitriou, Vazirani
 * <span id="V">V -</span> Approximation Algorithms, by V. Vazirani
 * <span id="WS">WS -</span> [The Design of Approximation Algorithms, by Williamson and Shmoys](https://www.designofapproxalgs.com/book.pdf)
-* Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan
-* [A First Course in Randomized Algorithms, by Nick Harvey](https://www.cs.ubc.ca/~nickhar/Book1.pdf)
+* <span id="MR">MR -</span> Randomized Algorithms, by Rajeev Motwani and Prabhakar Raghavan
+* <span id="HY">HY -</span> [A First Course in Randomized Algorithms, by Nick Harvey](https://www.cs.ubc.ca/~nickhar/Book1.pdf)
 
 For prerequisite review:
 
@@ -399,14 +399,17 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 12</strong><br> Thursday<br> Oct 15 </td>
-            <td> <b>Topics</b>: Karger's min-cut algorithm <!-- notions of probability, Karger's rnd min-cut algo &amp; analysis<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
+            <td> <b>Topics</b>: Karger's min-cut algorithm <!-- notions of probability, Karger's rnd min-cut algo &amp; analysis<br> In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> <br>
+            <b>Read: </b>
+            <a href="#KT">KT 13</a>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 13</strong><br> Tuesday<br> Oct 20 </td>
-            <td> <b>Topics</b>: Random Content Resolution
+            <td> <b>Topics</b>: Random Content Resolution I<br>
             <b>Read: </b>
-            <a href="#KT">CSLR 13.1</a>, 
+            <a href="#KT">KT 13</a> 
             <br></td>
             <td> Tiago </td>
         </tr>
@@ -418,7 +421,10 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 14</strong><br> Thursday<br> Oct 22 </td>
-            <td> <b>Topics</b>: probabilistic algorithms continued<br> <!-- In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> </td>
+            <td> <b>Topics</b>: Random Content Resolution II<br> <!-- In these three lectures you have to introduce the notion of random variables, conditional probability, chain rule, rnd outcome vs random runtime (Monte Carlo vs Las Vegas). Feel free to mix-up the order of topics as you think is best --> 
+            <b>Read: </b>
+            <a href="#MR">Motwani–Raghavan</a>, sections on contention-resolution-style examples
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
@@ -426,30 +432,30 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td> Midterm </td>
             <td>  </td>
         </tr>
-                      <tr>
+        <tr>
             <td> <strong>Lab 9</strong><br> Wednesday <br> Oct 28 </td>
             <td> Labs cancelled. <b></b> 
             </td>
-            <td>  </td>
+            <td> Pooria</td>
         </tr>
         <tr>
             <td> <strong>Lec 16</strong><br> Thursday<br> Oct 29 </td>
             <td> <b>Topics</b>: Randomzied input, Hiring Problem, QuickSort<br> <!-- See slides F24/10/24 --> 
             <b>Read: </b>
             <a href="#CLRS">CSLR 5.1-5.2</a>
-            <br>
             </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 17</strong><br> Tuesday<br> Nov 3 </td>
-            <td> <b>Topics</b>: hashing, hash table operations, chaining, linear probing<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> </td>
+            <td> <b>Topics</b>: hashing, hash table operations, chaining, linear probing<br> <!-- notion of hash function, collisions, separate chaining and load factors. See F24/10/29 --> 
             <b>Read: </b>
             <a href="#CLRS">CSLR 11.1-4</a>,<a href="https://www.brics.dk/RS/01/32/BRICS-RS-01-32.pdf"> cuckoo hashing paper </a>
-        </tr>td>
+            </td>
             <td> Dora </td>
+        </tr>            
         </tr>
-                      <tr>
+        <tr>
             <td> <strong>Lab 10</strong><br> Wednesday <br> Nov 4 </td>
             <td> <b></b> 
             </td>
@@ -457,16 +463,21 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 18</strong><br> Thursday<br> Nov 5 </td>
-            <td> <b>Topics</b>: cont hash table operations: linear and quadratic probing, uniersal hashing, cuckoo hashing. Minhash for similarity search. <br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> </td>
+            <td> <b>Topics</b>: cont hash table operations: linear and quadratic probing, uniersal hashing, cuckoo hashing. Minhash for similarity search. <br> <!-- (go slow!!!) F24/10/29 ( a little in 10/31) --> 
+            <b>Read: </b>
+            <a href="https://www.di.ens.fr/~vergnaud/algo0910/Cuckoo.pdf">https://www.di.ens.fr/~vergnaud/algo0910/Cuckoo.pdf</a>
+            </td>
             <td> Dora </td>
         </tr>
         <tr>
             <td> <strong>Lec 19</strong><br> Tuesday<br> Nov 10 </td>
-            <td> <b>Topics</b> locality sensitive hashing: Jaccard+Minhash, cosine+Simhash<br> <!-- F24/10/31 --></td>
+            <td> <b>Topics</b> Locality sensitive hashing: Jaccard+Minhash, cosine+Simhash<br> <!-- F24/10/31 -->
             <b>Read: </b>
-            <a href="https://drive.google.com/file/d/1R4AwZyBAvQ82-PUIXyjZC2aajsCjo_rN/view?usp=sharing"> Leskovec, Rajaraman, Ullman: Mining Massive Datasets ch. 3. </a>  <a href="https://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf">M. Charikar paper on Simhash</a> 
-        </tr>td>
+            <a href="https://drive.google.com/file/d/1R4AwZyBAvQ82-PUIXyjZC2aajsCjo_rN/view?usp=sharing"> Leskovec, Rajaraman, Ullman: Mining Massive Datasets ch. 3. </a>  
+            <a href="https://www.cs.princeton.edu/courses/archive/spr04/cos598B/bib/CharikarEstim.pdf">M. Charikar paper on Simhash</a> 
+            </td>
             <td> Dora </td>
+        </tr>            
         </tr>
         <tr>
             <td> <strong>Lab 11</strong><br> Wednesday <br> Nov 11 </td>
@@ -476,12 +487,20 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 20</strong><br> Thursday<br> Nov 12 </td>
-            <td> <b>Topics</b>: computing load: balls and bins , power of two choices<br> <!-- F24/10/31 --> </td>
+            <td> <b>Topics</b>: Bloom filters: notion and applications<br> <!-- F24/10/31 --> 
+            <b>Read: </b>
+            <a href="https://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf">Broder and Mitzenmacher, “Network Applications of Bloom Filters: A Survey,” Internet Mathematics, 2004, Sec. 1–2</a>
+            <br>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 21</strong><br> Tuesday<br> Nov 17 </td>
-            <td> <b>Topics</b>: Bloom filters<br> <!-- F24/11/05 notion, real life applications, analysis --> </td>
+            <td> <b>Topics</b>: Bloom filters: analysis<br> <!-- F24/11/05 notion, real life applications, analysis --> 
+            <b>Read: </b>
+            <a href="#HY">Harvey</a> sections on Bloom filters, hashing, and false-positive analysis<br>
+            <a href="https://www.math.umd.edu/~immortal/CMSC420/notes/bloomfilters.pdf">Lecture Notes</a>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
@@ -492,12 +511,20 @@ This schedule is subject, and likely, to change as we progress through the semes
         </tr>
         <tr>
             <td> <strong>Lec 22</strong><br> Thursday<br> Nov 19 </td>
-            <td> <b>Topics</b>: Bloom filters continued<br> <!-- Flajolet-Martin: count unique elements: combination of Bloom filters and intro to streaming algos --> </td>
+            <td> <b>Topics</b>: Flajolet-Martin: Counting the number of distinct elements in the last k elements of the stream<br> 
+            <b>Read: </b>
+            <a href="https://en.wikipedia.org/wiki/Flajolet–Martin_algorithm">Wikipedia</a>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
             <td> <strong>Lec 23</strong><br> Tuesday<br> Nov 24 </td>
-            <td> <b>Topics</b>: fun topic pre-Thanksgiving </td>
+            <td> <b>Topics</b>: Computing load: the power of two choices <br>
+            <b>Read: </b>
+            <a href="#MR">Motwani–Raghavan</a> sections on occupancy problems, balls-and-bins and tail bounds <br>
+            <a href="https://cs.colby.edu/courses/F09/cs231-labs/labs/lab07/Mitzenmacher-2Choices-TPDS2001.pdf" target="_blank" rel="noopener noreferrer">
+    Michael Mitzenmacher, “The Power of Two Choices in Randomized Load Balancing,” IEEE TPDS, 2001, Sec. 1–2</a>
+            </td>
             <td> Tiago </td>
         </tr>
         <tr>
