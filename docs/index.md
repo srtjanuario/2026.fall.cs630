@@ -510,15 +510,7 @@ This schedule is subject, and likely, to change as we progress through the semes
             <td>  </td>
         </tr>
         <tr>
-            <td> <strong>Lec 22</strong><br> Thursday<br> Nov 19 </td>
-            <td> <b>Topics</b>: Flajolet-Martin: Counting the number of distinct elements in the last k elements of the stream<br> 
-            <b>Read: </b>
-            <a href="https://en.wikipedia.org/wiki/Flajolet–Martin_algorithm">Wikipedia</a>
-            </td>
-            <td> Tiago </td>
-        </tr>
-        <tr>
-            <td> <strong>Lec 23</strong><br> Tuesday<br> Nov 24 </td>
+        <td> <strong>Lec 23</strong><br> Tuesday<br> Nov 24 </td>
             <td> <b>Topics</b>: Computing load: the power of two choices <br>
             <b>Read: </b>
             <a href="#MR">Motwani–Raghavan</a> sections on occupancy problems, balls-and-bins and tail bounds <br>
@@ -526,6 +518,25 @@ This schedule is subject, and likely, to change as we progress through the semes
     Michael Mitzenmacher, “The Power of Two Choices in Randomized Load Balancing,” IEEE TPDS, 2001, Sec. 1–2</a>
             </td>
             <td> Tiago </td>
+            <!-- <td> <strong>Lec 22</strong><br> Thursday<br> Nov 19 </td>
+            <td> <b>Topics</b>: Flajolet-Martin: Counting the number of distinct elements in the last k elements of the stream<br> 
+            <b>Read: </b>
+            <a href="https://en.wikipedia.org/wiki/Flajolet–Martin_algorithm">Wikipedia</a>
+            </td>
+            <td> Tiago </td> -->
+        </tr>
+        <tr>
+        <td> <strong>Thanksgiving</strong><br> Tuesday<br> Nov 24 </td>
+            <td> Thanksgiving break </td>
+            <td>  </td>
+            <!-- <td> <strong>Lec 23</strong><br> Tuesday<br> Nov 24 </td>
+            <td> <b>Topics</b>: Computing load: the power of two choices <br>
+            <b>Read: </b>
+            <a href="#MR">Motwani–Raghavan</a> sections on occupancy problems, balls-and-bins and tail bounds <br>
+            <a href="https://cs.colby.edu/courses/F09/cs231-labs/labs/lab07/Mitzenmacher-2Choices-TPDS2001.pdf" target="_blank" rel="noopener noreferrer">
+    Michael Mitzenmacher, “The Power of Two Choices in Randomized Load Balancing,” IEEE TPDS, 2001, Sec. 1–2</a>
+            </td>
+            <td> Tiago </td> -->
         </tr>
         <tr>
             <td> <strong>Thanksgiving</strong><br> Thursday<br> Nov 26 </td>
